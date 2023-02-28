@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongo:
+      uri: mongodb+srv://YOURUSERNAME:YOURPASSWORD@cluster0-learning.dhdsuyj.mongodb.net/?retryWrites=true&w=majority
